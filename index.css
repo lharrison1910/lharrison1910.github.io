@@ -1,0 +1,12 @@
+body {
+  width: 100%;
+  height: max-content;
+  margin: 0px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 0.5rem;
+  box-shadow: 0px 4px 4px black;
+  height: 2rem;
+}
