@@ -2,11 +2,15 @@ body {
   width: 100%;
   height: max-content;
   margin: 0px;
+  background-color: #2e2e2e;
+  color: #e0e0e0;
 }
 
 .header {
   text-align: center;
   margin-bottom: 0.5rem;
   box-shadow: 0px 4px 4px black;
-  height: 2rem;
+  height: 2.5rem;
+  align-content: center;
+  background-color: #00aeef;
 }
